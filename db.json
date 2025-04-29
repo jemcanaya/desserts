@@ -1,6 +1,5 @@
 {
-    "posts": [
-        {
+    "posts": {
             "response": [{
                     "heading": {
                         "text": "7 popular Western desserts Japanese chefs have made their own",
@@ -46,8 +45,7 @@
                     }
                 }
             ]
-        }
-    ],
+    },
     "profile": {
       "name": "typicode"
     }
